@@ -27,3 +27,13 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Project Related Secrets ###
+hmac.bin
+iv.bin
+private.pem
+public.pem
+wrapped_aes.key
+wrapped_hmac.key
+encrypted.png
+decrypted.png
